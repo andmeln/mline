@@ -1,2 +1,15 @@
 # mline
-Lightweight YAML-based pipeline engine
+
+**mline** is a lightweight YAML-based pipeline engine.
+
+More documentation coming soon.
+
+
+# Installation
+
+Install default version from the
+[Python Package Index](https://pypi.org/project/mline/):
+
+```
+pip install mline
+```
